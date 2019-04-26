@@ -1,2 +1,2 @@
 windows10+python2.7
-在label目录下直接运行python train.py
+鍦╨abel鐩綍涓嬬洿鎺ヨ繍琛宲ython train.py
